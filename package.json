@@ -1,0 +1,11 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "Tarea dejada por campus open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node homework1.js"
+  },
+  "author": "Alonso Aguirre",
+  "license": "ISC"
+}
